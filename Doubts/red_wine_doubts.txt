@@ -1,0 +1,4 @@
+What is hist plot and all about hisogram plot
+What is pairplot and all about install
+What is Categorical Plat and all about it 
+What is Scatter Plat and all about it
